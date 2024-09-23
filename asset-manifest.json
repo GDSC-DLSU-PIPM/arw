@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GDSC-DLSU-PIPM/arw/static/css/main.ae07f6ef.css",
+    "main.js": "/GDSC-DLSU-PIPM/arw/static/js/main.62ee3286.js",
+    "static/js/453.e3014241.chunk.js": "/GDSC-DLSU-PIPM/arw/static/js/453.e3014241.chunk.js",
+    "static/media/Officers-GA1-24-25_group-photo.jpg": "/GDSC-DLSU-PIPM/arw/static/media/Officers-GA1-24-25_group-photo.a415b22b5d865df580dc.jpg",
+    "static/media/GDSC-Square.png": "/GDSC-DLSU-PIPM/arw/static/media/GDSC-Square.62eac4bee1c83fe62732.png",
+    "index.html": "/GDSC-DLSU-PIPM/arw/index.html",
+    "main.ae07f6ef.css.map": "/GDSC-DLSU-PIPM/arw/static/css/main.ae07f6ef.css.map",
+    "main.62ee3286.js.map": "/GDSC-DLSU-PIPM/arw/static/js/main.62ee3286.js.map",
+    "453.e3014241.chunk.js.map": "/GDSC-DLSU-PIPM/arw/static/js/453.e3014241.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae07f6ef.css",
+    "static/js/main.62ee3286.js"
+  ]
+}
