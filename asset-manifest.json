@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae07f6ef.css",
-    "main.js": "/static/js/main.d8920ec5.js",
-    "static/js/453.e3014241.chunk.js": "/static/js/453.e3014241.chunk.js",
-    "static/media/Officers-GA1-24-25_group-photo.jpg": "/static/media/Officers-GA1-24-25_group-photo.a415b22b5d865df580dc.jpg",
-    "static/media/GDSC-Square.png": "/static/media/GDSC-Square.62eac4bee1c83fe62732.png",
-    "index.html": "/index.html",
-    "main.ae07f6ef.css.map": "/static/css/main.ae07f6ef.css.map",
-    "main.d8920ec5.js.map": "/static/js/main.d8920ec5.js.map",
-    "453.e3014241.chunk.js.map": "/static/js/453.e3014241.chunk.js.map"
+    "main.css": "/arw/static/css/main.ae07f6ef.css",
+    "main.js": "/arw/static/js/main.bd5959eb.js",
+    "static/js/453.e3014241.chunk.js": "/arw/static/js/453.e3014241.chunk.js",
+    "static/media/Officers-GA1-24-25_group-photo.jpg": "/arw/static/media/Officers-GA1-24-25_group-photo.a415b22b5d865df580dc.jpg",
+    "static/media/GDSC-Square.png": "/arw/static/media/GDSC-Square.62eac4bee1c83fe62732.png",
+    "index.html": "/arw/index.html",
+    "main.ae07f6ef.css.map": "/arw/static/css/main.ae07f6ef.css.map",
+    "main.bd5959eb.js.map": "/arw/static/js/main.bd5959eb.js.map",
+    "453.e3014241.chunk.js.map": "/arw/static/js/453.e3014241.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae07f6ef.css",
-    "static/js/main.d8920ec5.js"
+    "static/js/main.bd5959eb.js"
   ]
 }
